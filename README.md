@@ -21,9 +21,7 @@ contacto conmigo para intentar repararlo en próximas versiones.
 
 
 ## Instrucciones
-
 - - -
-
 El uso de este plugin no dista demasiado del uso del resto. Para empezar coloca el archivo jquery.tutooltip.js
 donde lo prefieras, para este documento supondremos que esta en un directorio 'js' junto al resto de scripts
 de Javascript, como suele ser habitual.
