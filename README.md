@@ -16,6 +16,7 @@ version o una mas reciente.
 Espero que el plugin te sea de utilidad y si tienes alguna propuesta de
 mejora o algun bug que has encontrado, te agradeceria que te pusieras en 
 contacto conmigo para intentar repararlo en proximas versiones.
+
 ===========================================================================
 
 INSTRUCCIONES
