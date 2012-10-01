@@ -2,6 +2,8 @@
 
  Plugin para la creación de tooltips con jQuery.
 
+***
+
 **version:** 1.0  
 **Author:** Jose Manuel Garrido Chacon  
 **web:** http://doblede.xtrweb.com  
@@ -38,12 +40,12 @@ Ya podemos usar el plugin. Para ello lo hacemos de la siguiente forma:
 Donde elemento sera cualquier selector que nos devuelta el/los elemento/s sobre el que queremos que aparezca el
 tooltip. Y opciones es un mapa con las opciones de configuración. Estas son las siguientes:
 
-- position: la posición del tooltip, que puede ser 'top', 'bottom', 'left' y 'right'. Por defecto es 'top'.
-- fadeIn: el tiempo que tarda en aparecer (en milisegundos). Por defecto 600.
-- fadeOut: el tiempo que tarda en desaparecer (en milisegundos). Por defecto 300.
-- color: el color del texto, que puede ser en rgb, rgba, hexadecimal o los predefinidos (red, white, black, etc.). Por defecto #FFF (blanco).
-- bgColor: color de fondo del tooltip. Al igual que antes, acepta rgb, rgba, hexadecimal y los predefinidos. Por defecto #000 (negro).
-- fontSize: tamaño de letra, que puede ser en em, px o porcentaje. Por defecto 0.7em.
+- **position:** la posición del tooltip, que puede ser 'top', 'bottom', 'left' y 'right'. Por defecto es 'top'.
+- **fadeIn:** el tiempo que tarda en aparecer (en milisegundos). Por defecto 600.
+- **fadeOut:** el tiempo que tarda en desaparecer (en milisegundos). Por defecto 300.
+- **color:** el color del texto, que puede ser en rgb, rgba, hexadecimal o los predefinidos (red, white, black, etc.). Por defecto #FFF (blanco).
+- **bgColor:** color de fondo del tooltip. Al igual que antes, acepta rgb, rgba, hexadecimal y los predefinidos. Por defecto #000 (negro).
+- **fontSize:** tamaño de letra, que puede ser en em, px o porcentaje. Por defecto 0.7em.
 
 El texto que aparecerá en los tooltips sera el que contenga en el atributo 'alt' del elemento indicado. En el 
 siguiente código de ejemplo obtendríamos tooltips con fondo azul a la derecha de todos los enlaces del documento
