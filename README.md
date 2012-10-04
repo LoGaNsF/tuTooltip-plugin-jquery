@@ -4,7 +4,7 @@
 
 ***
 
-**version:** 1.0  
+**version:** 1.0.1  
 **Author:** Jose Manuel Garrido Chacon  
 **web:** http://doblede.xtrweb.com  
 **mail:** logansf@gmail.com  
